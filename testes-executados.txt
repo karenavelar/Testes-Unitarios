@@ -1,0 +1,14 @@
+Conta
+ [x] Recusa cpf invalido
+ [x] Valor do saque nao pode ser maior que saldo with data set #0
+ [x] Cria conta with data set #0
+ [x] Deposito valido with data set #0
+ [x] Deposito invalido with data set #0
+ [x] Saque valido with data set #0
+ [x] Saca com saldo indisponivel with data set #0
+ [x] Transfere com saldo with data set #0
+ [x] Transfere sem saldo with data set #0
+ [x] Cria cpf valido
+ [x] Recusa titular com nome invalido with data set #0
+ [x] Cria titular com nome valido with data set #0
+
